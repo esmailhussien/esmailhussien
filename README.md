@@ -15,7 +15,9 @@ I build geospatial systems, spatial databases, workflow automation tools and web
 
 ### [Canvio.space](https://canvio.space)
 
-Founder, product designer and developer.
+Founder, product designer and developer. A connected whiteboard for learning, planning and research, combining visual notes, labeled relationships, maps and board-aware AI.
+
+[View the product showcase and screenshots](docs/canvio.md) · [Try Canvio](https://canvio.space/)
 
 ### [AgentLayer](https://github.com/esmailhussien/AgentLayer)
 
