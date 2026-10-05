@@ -39,6 +39,14 @@ Canvio supports a straightforward loop: gather useful material, make it visible,
 
 The [public updates archive](https://canvio.space/updates) documents the thinking behind relations, map-based work, board-aware AI, and interaction design.
 
+## Optional support
+
+Canvio is free to use. Optional contributions help fund development time, AI tools and APIs, hosting, and ongoing maintenance. You do not need to contribute to use Canvio.
+
+[Support Canvio on Ko-fi](https://ko-fi.com/canvio)
+
+
+
 ## About this showcase
 
 This page presents the public product and sample UI. Canvio's application source is maintained privately and is not included in this profile repository.
