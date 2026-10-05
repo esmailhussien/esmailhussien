@@ -1,16 +1,26 @@
-## Hi there 👋
+# Esmail Hussien Elkhashab
 
-<!--
-**esmailhussien/esmailhussien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GIS Unit Manager | Digital Transformation Project Manager | PhD**
 
-Here are some ideas to get you started:
+I build geospatial systems, spatial databases, workflow automation tools and web applications. My work combines project leadership with hands-on design and development, drawing on a background in GIS and remote sensing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+
+- GIS, remote sensing and spatial data
+- Geospatial applications and spatial databases
+- Workflow automation and digital transformation
+- Web application design and development
+
+## Selected work
+
+### [Canvio.space](https://canvio.space)
+
+Founder, product designer and developer.
+
+### [AgentLayer](https://github.com/esmailhussien/AgentLayer)
+
+An experimental collection of engineering instructions and reusable skills for AI coding agents, with task-based routing and geospatial resources.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/esmail-elkhashab-gis/) · [Canvio.space](https://canvio.space)
