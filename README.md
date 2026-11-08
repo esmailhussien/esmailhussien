@@ -19,7 +19,7 @@ Founder, product designer and developer. A connected whiteboard for learning, pl
 
 [View the product showcase and screenshots](docs/canvio.md) · [Try Canvio](https://canvio.space/)
 
-### [AgentLayer](https://github.com/esmailhussien/AgentLayer)
+### [Terraprrof](https://github.com/esmailhussien/terraproof)
 
 An experimental collection of engineering instructions and reusable skills for AI coding agents, with task-based routing and geospatial resources.
 
